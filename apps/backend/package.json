@@ -10,7 +10,8 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "db": "*",
     "express": "^5.2.1",
-    "db":"*"
+    "ioredis": "^5.11.1"
   }
 }
